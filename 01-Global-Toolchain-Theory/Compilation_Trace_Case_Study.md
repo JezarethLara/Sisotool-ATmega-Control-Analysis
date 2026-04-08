@@ -66,3 +66,5 @@ Breakdown of the payload:
 6093: Machine code for STS
 
 26: Checksum ensuring data integrity
+
+[Detailed Case Study: Memory Allocation Trace](./Memory_Allocation_Trace.md)
