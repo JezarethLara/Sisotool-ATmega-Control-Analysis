@@ -75,4 +75,5 @@ The script dictates that executable code (`.text`) must be placed in the `0x0000
 ### 6.3 Hex Extraction
 The Linker produces an **ELF (Executable and Linkable Format)** file. Finally, a utility (like `avr-objcopy`) extracts the raw binary payload from the ELF and formats it into an **Intel HEX** file—the exact format required to burn the program into the microcontroller's transistors.
 
+
 [Detailed Case Study: Compilation Trace](./Compilation_Trace_Case_Study.md)
